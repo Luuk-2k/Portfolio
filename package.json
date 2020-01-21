@@ -1,0 +1,8 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "dependencies": {
+    "request-promise": "latest",
+    "require": "^2.4.20"
+  }
+}
