@@ -26,7 +26,11 @@
     <div class="underline"></div>
     <div class="cards">
         <div class="undercard">
-            <div class="card bounceInRight">
+            <div class="card">
+                <img src="images/profilepic2.png" width="45%" height="145" class="card-pf">
+                    <h1 class="card-title">Who am I</h1>
+                <p>loremi</p>
+
             </div>
         </div>
         <div class="undercard">

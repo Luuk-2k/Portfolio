@@ -39,15 +39,15 @@ ul {
 }
 
 .undernav {
-    background-image: linear-gradient(to right, #25BE98, #6590DB);
+    background-image: linear-gradient(to right, #009FFF, #ec2F4B);
     height: 5px;
     width: 100vw;
 }
 
 .underline {
-    background-image: linear-gradient(to left, #25BE98, #6590DB);
+    background-image: linear-gradient(to left, #009FFF, #ec2F4B);
     height: 5px;
-    width: 100vw;
+    width: 100%;
 }
 
 .banner-image {
@@ -70,15 +70,25 @@ ul {
     align-content: center;
     justify-content: space-evenly;
     margin-top: 50px;
+
 }
 
 .card {
-
     background-color: #252527;
     border-radius: 15px;
-    height: 350px;
+    height: 500px;
     width: 325px;
     margin-top: 2px;
+    max-width: 325px;
+}
+@media screen and (max-width: 1022px) {
+    .cards {
+        flex-direction: column;
+        margin: 50px 42% 0 33%;
+    }
+    .card {
+        margin-bottom: 10px;
+    }
 }
 
 .undercard {
@@ -86,7 +96,16 @@ ul {
     display: flex;
     align-content: center;
     justify-content: space-evenly;
-    height: 355px;
+    height: 505px;
     width: 330px;
-    background-image: linear-gradient(to right, #25BE98, #6590DB);
+    background-image: linear-gradient(to right, #009FFF, #ec2F4B);
+}
+
+.card-pf {
+    margin: 5px 5.5rem 0 5.5rem;
+}
+
+.card-title {
+    color: #e1e1e1;
+    text-align: center;
 }
