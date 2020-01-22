@@ -29,16 +29,23 @@
             <div class="card">
                 <img src="images/profilepic2.png" width="45%" height="145" class="card-pf">
                     <h1 class="card-title">Who am I</h1>
-                <p>loremi</p>
+                <p>Damn yer cloud, feed the tuna.Ship-wide mermaids, to the holodeck.Velox assimilatios ducunt ad rumor. </p>
 
             </div>
         </div>
         <div class="undercard">
             <div class="card">
+                <img src="images/profilepic2.png" width="45%" height="145" class="card-pf">
+                <h1 class="card-title">Who am I</h1>
+                <p>Damn yer cloud, feed the tuna.Ship-wide mermaids, to the holodeck.Velox assimilatios ducunt ad rumor. </p>
+
             </div>
         </div>
         <div class="undercard">
             <div class="card">
+                <img src="images/profilepic2.png" width="45%" height="145" class="card-pf">
+                <h1 class="card-title">Who am I</h1>
+                <p>Damn yer cloud, feed the tuna.Ship-wide mermaids, to the holodeck.Velox assimilatios ducunt ad rumor. </p>
 
             </div>
         </div>
